@@ -2,7 +2,7 @@ id: security-txt
 
 info:
   name: security.txt File
-  author: bad5ect0r,noraj
+  author: s1n6h
   severity: info
   description: |
     File similar to robots.txt but intended to be read by humans wishing to contact a website’s owner about security issues. Often defines a security policy and contact details.
